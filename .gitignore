@@ -1,0 +1,32 @@
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies #
+########################
+node_modules/
+
+# Environment variables #
+#########################
+.env
+
+# Build files #
+###############
+build/
+dist/
+out/
+
+# Dependency lock files #
+#########################
+package-lock.json
+yarn.lock
+
+# IDE and editor files #
+#########################
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
